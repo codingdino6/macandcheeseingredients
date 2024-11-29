@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+}
+li{
+    text-align: left;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 10 px; 
+    right: 10 px;  
+    font-size: 20 px;
+    color: #333;
+}
+
+.middle-align{
+    text-align: center;
+    margin:0 auto;
+}
+   
